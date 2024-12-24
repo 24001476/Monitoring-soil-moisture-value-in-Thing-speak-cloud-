@@ -141,7 +141,9 @@ void loop()
 
 ![2](https://github.com/user-attachments/assets/8e89f5e5-5fa1-4242-ac0c-47fe079dd24e)
 
-![2](https://github.com/user-attachments/assets/e3acfe82-ed7a-429e-956b-ca9977c14ab2)
+
+![2-1](https://github.com/user-attachments/assets/edd009ce-953d-4c2e-8cce-d499052ba224)
+
 
 # RESULT:
 Thus the soil moisture values are updated in the Thing speak cloud using ESP32 controller.
